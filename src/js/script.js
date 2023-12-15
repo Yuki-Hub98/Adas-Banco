@@ -86,8 +86,7 @@ class Conta{
                } 
             }))
             return result
-            console.log(result)
-            //console.log(`Historico da conta:\nCliente:${result.nome}\nOperação${result.operacao}\nValor${result.valor}`)
+            
         }
 
         detalhes(){
