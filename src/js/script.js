@@ -212,14 +212,8 @@ class Conta{
                 console.log("Os parâmetros recebidos não estão de acordo");
                 break;
         }
+
+        
        
    } 
 
-   /*
-cadastro("yago", "52555255", "corrente")
-cadastro("teste", "1111111", "corrente")
-operacao(500, "deposito", "yago")
-operacao(250, "transferir", "yago", "teste")
-operacao(undefined, "historico", "yago")
-console.log(contas)
-*/
